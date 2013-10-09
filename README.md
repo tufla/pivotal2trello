@@ -1,4 +1,4 @@
 pivotal2trello
 ==============
 
-App to migrate 
+Simple hack to migrate stories from pivotal tracker into cards in some specifics boards in trello.
